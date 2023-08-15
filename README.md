@@ -1,3 +1,3 @@
 # BERT-ISE244
 
-## Improving Natural Language Processing tasks using BERT-based models
+## Comparing 3 pre-trained BERT-based models by performing Sentiment Analysis and Text Classification.
